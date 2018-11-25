@@ -1,0 +1,7 @@
+<nav class="menu-centered">
+  <ul class="menu align-center vertical medium-horizontal">
+    {% for item in site.data.nav-footer %}
+      <li><a href="{{ item.url }}" class="scolor2 s">{{ item.link }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

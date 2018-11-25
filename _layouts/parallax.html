@@ -1,0 +1,40 @@
+---
+layout: compress
+---
+
+
+
+{% include header.html %}
+<div class="parallax-background {{page.n}}">
+	
+
+	<!-- <div class="parallax-header">
+	  <div class="row">
+	  	<div class="medium-4 small-centered columns text-center wbg" style="border-radius: 0 0 3px 3px;">
+
+	  		<a href="{{site.url}}"><img src="{{site.url}}/assets/img/logo.png"><img src="{{site.url}}/assets/img/logo-type.png"></a>
+	  	</div>
+	  </div>
+	</div> -->
+</div>
+{% include components/nav-menu.html %}
+<div class="parallax-content">
+
+{{ content }}
+
+{% include footer.html %}
+</div>
+
+<!-- <script type="text/javascript">
+	$(document).ready(function() {
+    $('#purposeBtn').click(function(){
+        $('#purposeView').slideUp();
+        $('#purpose2View').slideDown();
+        $('#purpose2Btn').click(function(){
+            $('#purpose2View').slideUp();
+            $('#purpose3View').slideDown();
+        });
+    });
+
+});
+</script> -->

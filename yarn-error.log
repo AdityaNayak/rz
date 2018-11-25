@@ -1,0 +1,88 @@
+Arguments: 
+  /usr/local/Cellar/node/9.11.1/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js start
+
+PATH: 
+  /Users/AdityaNayak/Library/Android/sdk/platform-tools:/Users/AdityaNayak/.rbenv/shims:/Users/AdityaNayak/.rbenv/bin:/Users/AdityaNayak/.rvm/gems/ruby-2.4.1/bin:/Users/AdityaNayak/.rvm/gems/ruby-2.4.1@global/bin:/Users/AdityaNayak/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/user/local/php5/bin:/user/loc‌​al/mysql/bin:/Users/AdityaNayak/.rvm/bin:/Users/AdityaNayak/android-sdks/platform-tools/
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  9.11.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "jekyll-foundation",
+    "version": "0.4.0",
+    "description": "Starting point for a Jekyll site that uses Zurb Foundation's Sass.",
+    "license": "MIT",
+    "main": "gulpfile.js",
+    "dependencies": {},
+    "devDependencies": {
+      "babel-plugin-transform-es2015-arrow-functions": "^6.8.0",
+      "babel-plugin-transform-es2015-block-scoped-functions": "^6.8.0",
+      "babel-plugin-transform-es2015-block-scoping": "^6.18.0",
+      "babel-plugin-transform-es2015-classes": "^6.18.0",
+      "babel-plugin-transform-es2015-destructuring": "^6.19.0",
+      "babel-plugin-transform-es2015-modules-commonjs": "^6.18.0",
+      "babel-plugin-transform-es2015-parameters": "^6.18.0",
+      "babel-plugin-transform-es2015-shorthand-properties": "^6.18.0",
+      "babel-plugin-transform-es2015-spread": "^6.8.0",
+      "babel-plugin-transform-es2015-template-literals": "^6.8.0",
+      "babel-preset-es2015": "^6.18.0",
+      "browser-sync": "^2.10.0",
+      "cross-spawn": "^5.0.0",
+      "del": "^2.2.0",
+      "gulp": "^3.9.0",
+      "gulp-autoprefixer": "^3.1.0",
+      "gulp-babel": "^6.1.2",
+      "gulp-concat": "^2.6.0",
+      "gulp-cssnano": "^2.1.1",
+      "gulp-if": "^2.0.0",
+      "gulp-load-plugins": "^1.4.0",
+      "gulp-notify": "^2.2.0",
+      "gulp-sass": "^2.2.0",
+      "gulp-sourcemaps": "^2.2.0",
+      "gulp-uglify": "^2.0.0",
+      "js-yaml": "^3.5.4",
+      "require-dir": "^0.3.0",
+      "run-sequence": "^1.1.5",
+      "yargs": "^6.4.0"
+    },
+    "scripts": {
+      "start": "gulp",
+      "build": "gulp build --production",
+      "test": "gulp build --production"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/core77/jekyll-foundation.git"
+    },
+    "bugs": {
+      "url": "https://github.com/core77/jekyll-foundation/issues"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Command failed.
+  Exit code: 1
+  Command: sh
+  Arguments: -c gulp
+  Directory: /Users/AdityaNayak/Sites/mutiny
+  Output:
+  
+      at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
+      at new ProcessTermError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:226:113)
+      at ChildProcess.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:30281:17)
+      at ChildProcess.emit (events.js:180:13)
+      at maybeClose (internal/child_process.js:936:16)
+      at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
