@@ -20,17 +20,17 @@ $(window).on('scroll', function() {
     if (scrollPosition >= 680) {
         // If the function is only supposed to fire once
         //$(this).off('scroll');
-        imageUrl = '../assets/img/bg2.jpg';
+//         imageUrl = '../assets/img/bg2.jpg';
         // imageUrl2 = '../assets/img/team.jpg';
         // Other function stuff here...
-        bgpos = '0% 20%';
+//         bgpos = '0% 20%';
         $('.top-bar').removeClass('top');
     }
    
     else{
-        imageUrl = '../assets/img/cover.jpg';
+//         imageUrl = '../assets/img/cover.jpg';
         // imageUrl2 = '../assets/img/team.jpg';
-        bgpos = 'bottom';
+//         bgpos = 'bottom';
         $('.top-bar').addClass('top');
     }
     $(".parallax-background.home").css({"background-image": "url('" + imageUrl + "')","background-position": bgpos});
