@@ -33,7 +33,7 @@ $(window).on('scroll', function() {
 //         bgpos = 'bottom';
         $('.top-bar').addClass('top');
     }
-    $(".parallax-background.home").css({"background-image": "url('" + imageUrl + "')","background-position": bgpos});
+//     $(".parallax-background.home").css({"background-image": "url('" + imageUrl + "')","background-position": bgpos});
     // $(".parallax-background.jobs").css({"background-image": "url('" + imageUrl2 + "')","background-position": bgpos});
 
 
