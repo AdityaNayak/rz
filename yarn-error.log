@@ -77,7 +77,7 @@ Trace:
   Exit code: 1
   Command: sh
   Arguments: -c gulp
-  Directory: /Users/AdityaNayak/Sites/mutiny
+  Directory: /Users/AdityaNayak/Sites/rz
   Output:
   
       at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)

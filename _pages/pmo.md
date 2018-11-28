@@ -1,5 +1,5 @@
 ---
-permalink: /pmanager
+permalink: /pmo
 layout: parallax
 title: Realization Technologies
 n: home 
@@ -9,8 +9,8 @@ description:
 
 <div class="row">
 	<div class="small-12 columns text-center b-ws-bottom">
-		<h2 class="wc bold serif">Finally, a method to manage projects that works.<br>With Proven results.</h2>
-		<h4 class="wcolor">What would it feel like to see a project deliver as planned, for once?</h4>
+		<h2 class="wc bold serif">Do you feel inadequately equipped to be on top of all things? <br> We are here to help.</h2>
+		<h4 class="wcolor">Finally, there is a way to not become the scapegoat for all that is wrong with the project.</h4>
 		<div class="b-ws-top">
 			<a class="button success">Explain me how</a>
 		</div>
@@ -54,17 +54,18 @@ description:
 	</div>
 	<div class="row">
 		<div class="small-4 columns">
-			<h5 class="bold bkc">Mostly used only for submission, and useless in execution</h5>
-			<p>And Practical planning is only limited to setting monthly targets and sans any insights</p>
+			<h5 class="bold bkc">Impossible to be aware of all critical issues through sheer follow-up</h5>
+			<p>Something or the other is bound to slip
+Hence, surprises are still aplenty
+</p>
 		</div>
 		<div class="small-4 columns">
-			<h5 class="bold bkc">No one ever follows the plan</h5>
-			<p>Mostly because, project plans become redundant on day 2 (as soon they meet the real world). And then it's a constant uphill pain to
-			Synchronize using Manual coordination</p>
+			<h5 class="bold bkc">Making reports is tedious, time-consuming and redundant</h5>
+			<p>Too many excel sheets, follow-ups, frequent re-planning</p>
 		</div>
 		<div class="small-4 columns">
-			<h5 class="bold bkc">Surprises are the norm. </h5>
-			<p>And hence, all actions can only be reactive. Leaving execution at the mercy of fire-fighting.</p>
+			<h5 class="bold bkc">Coordination efforts are too high, yield is minimal</h5>
+			<p>Teams keep working to their own plans</p>
 		</div>
 	</div>
 </div>
@@ -77,50 +78,60 @@ description:
 	</div>
 	<div class="row">
 		<div class="small-4 columns">
-			<h5 class="bold bkc">Instant updates can eliminate surprises</h5>
-			<p>A software will solve my problem And, will also automate reports
+			<h5 class="bold bkc">If the teams send me data instead of me chasing them, that will solve my problems</h5>
+			<!-- <p>A software will solve my problem And, will also automate reports -->
 			</p>
 		</div>
 		<div class="small-4 columns">
-			<h5 class="bold bkc">Delays are only due to external factors or unrealistic plans. </h5>
-			<p>And not in my control</p>	
+			<h5 class="bold bkc">Better tech can improve data collation and automate report-making</h5>
+			<p>And not in my control</p>
 		</div>
 		<div class="small-4 columns">
-			<h5 class="bold bkc">What is going to happen next will always be at the mercy of God.</h5>
-			<p>All reporting ever will be is backward looking. </p>
+			<h5 class="bold bkc">I can never really truly be in control</h5>
+			<p>If workload is limited to following up, I will be more on top of things, at best.</p>
 		</div>
 	</div>
 </div>
-It wasn't possible, until now
+<div class="row">
+	<div class="small-12 columns">
+		<p>What you are looking for is only a small part of the real problem. We can be more for you. 
+In one stroke, you can easily fix the project delivery problem that your organization needs. We offer that solution.
+Why be Robin when you can be Batman.</p>
+		</div>
+</div>
 <div class="wbg b-ws-top-p">
 	<div class="row">
 		<div class="small-12 columns text-center">
-			<div class="scolor f-1-2-5x s-ws-top">What if there could be a Real plan</div>
-			<div class="serif bold bkc f-2x m-ws-bottom">stays stable and relevant. Always</div>
+			<div class="scolor f-1-2-5x s-ws-top">The solution is a tool that</div>
+			<!-- <div class="serif bold bkc f-2x m-ws-bottom">stays stable and relevant. Always</div> -->
 	</div>
 	<div class="row">
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Adapts in real-time </h5>
-			<p>
+		<div class="small-3 columns">
+			<h5 class="bold bkc">Always keeps your plans relevant</h5>
+			<p>Adapts in real-time 
+Automatically leverages instant updates
+Minimizes maintenance efforts
 			</p>
 		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Smart enough to anticipate delays before they hit execution</h5>
-			<p>Advance warning signals and not just backward looking reports</p>
-		</div>
-		<div class="small-4 columns">
+		<div class="small-3 columns">
 			<h5 class="bold bkc">Synchronizes all parties automatically</h5>
-			<p>Automatically leverages instant updates</p>
+			<p>Removes 90% of coordination efforts that are redundant anyway</p>
+		</div>
+		<div class="small-3 columns">
+			<h5 class="bold bkc">Eliminates the need to continuously follow up for data collection</h5>
+			<p>Real-time app based updating technology platform that enables everyone to input data at source</p>
+		</div>
+		<div class="small-3 columns">
+			<h5 class="bold bkc">Automatically provides forward-looking alerts, not just the usual backward-looking reports</h5>
+			<p>Smart enough to anticipate delays before they hit execution</p>
 		</div>
 	</div>
 </div>
 <div class="row">
 	<div class="small-12 text-center columns">
 <div>Interested?</div> 
-<div>To find out how we do it.</div>
-<a class="button">Give us a call.</a>
-<div>Now take back control from externalities.</div>
-<h3 class="bold">Be in charge. <span class="bkc">Always.</span> </h3>
+<div>Let's talk</div>
+<a class="button">schedule an appointment with us</a>
 </div>
 <div class="row">
 <div class="small-12 columns text-center">
