@@ -38,7 +38,7 @@ plugins_dir:
 incremental:      true
 
 # Serving
-# url:            "https://mutinylabs.github.io/Realization/"
+url:            "https://adityanayak.github.io/rz/"
 # baseurl:        "mutiny" # does not include hostname
 
 # Outputting
