@@ -127,7 +127,7 @@ description:
 				<div class="small-8 columns">
 					<div class="wcolor">The solution is </div>
 					<div class="wc f-1-25x bold s-ws-bottom">A Plan that:</div>
-					<h5 class="wc nm f-1-5x bold">That stays Relevant. Always.</h5>
+					<h5 class="wc nm f-1-5x bold">Stays Relevant. Always.</h5>
 					<p class="wcolor f-1-25x">And adapts in real-time to do so.</p>
 					<h5 class="wc f-1-5x bold nm">Synchronizes all parties automatically</h5>
 					<p class="wcolor f-1-25x">No more back and forth between your team</p>
@@ -151,7 +151,7 @@ description:
 			<div class="f-1-25x s-ws-bottom">To find out how we do it.</div>
 			<a class="button">Give us a call</a>
 			<div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
-			<div class="f-1-5x s-ws-top bkc">Be in charge.Always.</div>
+			<div class="f-1-5x s-ws-top bkc">Be in charge. Always.</div>
 		</div>
 	</div>
 </div>
@@ -187,6 +187,22 @@ description:
 						<div class="small-8 columns np">
 							<div class="bold bkc">Recovered an 5-month delay in ₹ 1700 Cr. Shipyard project</div>
 							<div class="scolor s">And made operational in 28 mos. vs previous record of 26 mos.</div>
+						</div>
+						<div class="small-1 columns s-ws-top">
+							<i class="icon-right-open f-1-5x scolor3"></i>
+						</div>
+					</div>
+				</div>
+			</a>
+			<a href="#">
+				<div class="callout">
+					<div class="row">
+						<div class="small-3 columns">
+							<img src="http://e36261ef1f37a9aa564c-183246622d51cc66cab6f7d435863a72.r86.cf5.rackcdn.com/wp-content/uploads/2016/03/isgec.jpg?0348ca">
+						</div>
+						<div class="small-8 columns np">
+							<div class="bold bkc">₹650 Cr. Brownfield Expansion delivered 30% faster</div>
+							<div class="scolor s">13 months vs. 18 months previously for a similar project</div>
 						</div>
 						<div class="small-1 columns s-ws-top">
 							<i class="icon-right-open f-1-5x scolor3"></i>
