@@ -27,8 +27,7 @@ exclude:
   - "README.md"
   - "rev-manifest.json"
   - "/blog/"
-  - "_posts"
-
+  
 # Plugins
 gems:             ["jekyll-sitemap"]
 plugins_dir:
@@ -38,10 +37,12 @@ plugins_dir:
 incremental:      true
 
 # Serving
+url:            "http://127.0.0.1.xip.io:3003"
+
 # url:            "https://mutinylabs.github.io/Realization/"
 # baseurl:        "mutiny" # does not include hostname
 
 # Outputting
-permalink:        "/blog/:year/:title/"
+permalink:        ":title/"
 # paginate_path:    "/blog/page:num"
 # paginate:         5

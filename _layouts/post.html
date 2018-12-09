@@ -2,13 +2,52 @@
 layout: default
 ---
 
-<main>
-<small><i>main</i></small>
-<article>
-  <h1>{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date_to_string }}</p>
-  <p class="post-content">
-  {{ content }}
-  </p>
-</article>
-</main>
+<div class="parallax-background post">
+	
+
+	<!-- <div class="parallax-header">
+	  <div class="row">
+	  	<div class="medium-4 small-centered columns text-center wbg" style="border-radius: 0 0 3px 3px;">
+
+	  		<a href="{{site.url}}"><img src="{{site.url}}/assets/img/logo.png"><img src="{{site.url}}/assets/img/logo-type.png"></a>
+	  	</div>
+	  </div>
+	</div> -->
+<img src="{{site.url}}/assets/img/cover/{{page.cover}}">
+
+</div>
+<div class="parallax-content post">
+
+<div class="row">
+	<div class="small-9 small-offset-3 columns">
+		<h2 class="serif bold wc">{{ page.title }}</h2>
+	</div>
+</div>
+<div class="wbg">
+<div class="row">
+	<div class="small-3 columns b-ws-top-p">
+		<img src="{{page.logo}}">
+	</div>
+	<div class="small-6 columns s-ws-top">
+		<main>
+			<article>
+			  <!-- <p class="meta">{{ page.date | date_to_string }}</p> -->
+			  <p class="post-content">
+			  {{ content }}
+			  </p>
+			</article>
+			</main>
+	</div>
+	<div class="small-3 columns b-ws-top">
+		<div class="callout dbbg">
+			<h4 class="wc bold">Interested?</h4>
+			<p class="wcolor">Find out how we can help. Give us a call.</p>
+			<form>
+				<label class="wcolor">Your phone number
+				<input type="tel" name="" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
+				<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
+			</form>
+		</div>
+	</div>
+</div>
+</div>

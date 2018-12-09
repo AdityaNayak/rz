@@ -38,7 +38,6 @@
 }
 
 .parallax-background {
-	
 	background-position:bottom;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -47,13 +46,14 @@
 	background-size: cover;
 	position: fixed;
 	width: 100%;
-	&.jobs{
-		background-image: url(../img/team.jpg);
-		height:400px;
-	}
 	&.home{
 		height: 600px;
-		background-image: url(../img/cover.jpg);
+    background-image: url(../img/cover.jpg);
+	}
+	&.post{
+		img{
+			width: 100%;
+		}
 	}
 }
 
@@ -64,6 +64,9 @@
 	top: 200px;
 	&.jobs{
 		top:200px;
+	}
+	&.post{
+		top:300px;
 	}
 	//padding: 50px;
 	//font-size: 20px;
@@ -464,5 +467,23 @@ blockquote{
 		&:before{
 			content: "";
 		}
+	}
+}
+
+.pullout{
+	margin-right: -5em;
+	padding-left: 5em;
+	margin-bottom: 2em;
+	&.compass{
+		background:url('../img/location-pin.png') no-repeat 0 50%;
+	}
+	&.check{
+		background:url('../img/checked.png') no-repeat 0 50%;
+	}
+}
+
+ul,ol,li{
+	&::after,&::before{
+		display: inline-block;
 	}
 }
