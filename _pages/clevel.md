@@ -171,41 +171,39 @@ description:
 </div>
 <div class="wbg b-ws-top-p">
 	<div class="row">
-		<div class="small-4 columns">
-			<h5 class="bold bkc">This is not a ‘Change Management’ initiative </h5>
-			<p>Easy buy-in from your existing team</p>
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">It does not take ages to implement</h5>
-			<p>Can be up and running in 8-12 weeks</p>
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">No unlearning and relearning process for your team</h5>
-			<p>No additional workload, no double updates needed from your team</p>
+		<div class="small-12 columns text-center b-ws-top b-ws-bottom">
+			<div class="f-1-5x bold bkc">We know this sounds like a tall order. </div>
+			<div class="f-1-25x">The good part is that it doesn’t take much from your side to get it done.</div>
 		</div>
 	</div>
-	<div class="small-12 columns text-center">
-We take care of it end to end.
-</div>
-</div>
-<div class="wbg">
 	<div class="row">
-		<div class="small-12 text-center columns b-ws-top">
-				<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
-				<div class="f-1-25x s-ws-bottom">And how we can help you? Let's talk.</div>
+		<div class="small-6 columns b-ws-bottom m-ws-top">
+			<h5 class="bold bkc nm"><img src="../assets/img/checked.png" width="36px" class="xs-ws-right">This is not a ‘Change Management’ initiative </h5>
+			<p class="b-ws-left">Easy buy-in from your existing team</p>
+			<h5 class="bold bkc nm"><img src="../assets/img/checked.png" width="36px" class="xs-ws-right">It does not take ages to implement</h5>
+			<p class="b-ws-left">Can be up and running in 8-12 weeks</p>
+			<h5 class="bold bkc nm"><img src="../assets/img/checked.png" width="36px" class="xs-ws-right">No unlearning and relearning process for your team</h5>
+			<p class="b-ws-left">No additional workload, no double updates needed from your team</p>
+			<div class="s-ws-left f-1-5x bkc text-center m-ws-top">We take care of it end to end.</div>
+		</div>
+		<div class="small-6 columns b-ws-bottom m-ws-top" style="border-left:1px solid #dedede;">
+			<div class="row">
+				<div class="small-12 text-center columns">
+					<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
+					<div class="f-1-25x s-ws-bottom">And how we can help you? Let's talk.</div>
+				</div>
+				<div class="small-8 small-centered columns">
+					<form>
+						<label class="wcolor">Your phone number
+						<input type="tel" name="" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
+						<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
+					</form>
+				</div>
+				<div class="small-12 text-center s-ws-top columns b-ws-bottom">
+				<!-- <a class="button">Give us a call</a> -->
+				<div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
+				<div class="f-1-5x bkc">Be in charge. Always.</div>
 			</div>
-			<div class="small-3 small-centered columns">
-				<form>
-					<label class="wcolor">Your phone number
-					<input type="tel" name="" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
-					<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
-				</form>
-			</div>
-			<div class="small-12 text-center s-ws-top columns b-ws-bottom">
-			<!-- <a class="button">Give us a call</a> -->
-			<div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
-			<div class="f-1-5x bkc">Be in charge. Always.</div>
 		</div>
 	</div>
 </div>
-

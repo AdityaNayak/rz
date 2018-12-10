@@ -79,13 +79,13 @@ description:
 			<img src="http://png.clipart-library.com/images4/2/batman-and-robin-clipart-3.png">
 		</div>
 		<div class="small-9 columns b-ws-top">
-				<h5 class="bkc">If the teams send me data instead of me chasing them, that will solve my problems</h5>
+				<h5 class="bkc"><img src="https://image.flaticon.com/icons/svg/595/595067.svg" width="24px;" class="xs-ws-right">If the teams send me data instead of me chasing them, that will solve my problems</h5>
 				<!-- <p>A software will solve my problem And, will also automate reports -->
 				<!-- </p> -->
-				<h5 class="bkc nm xs-ws-top-p">Better tech can improve data collation and automate report-making</h5>
-				<p>And not in my control</p>
-				<h5 class="bkc nm">I can never really truly be in control</h5>
-				<p>If workload is limited to following up, I will be more on top of things, at best.</p>
+				<h5 class="bkc nm xs-ws-top-p"><img src="https://image.flaticon.com/icons/svg/595/595067.svg" width="24px;" class="xs-ws-right">Better tech can improve data collation and automate report-making</h5>
+				<p class="m-ws-left">And not in my control</p>
+				<h5 class="bkc nm"><img src="https://image.flaticon.com/icons/svg/595/595067.svg" width="24px;" class="xs-ws-right">I can never really truly be in control</h5>
+				<p class="m-ws-left">If workload is limited to following up, I will be more on top of things, at best.</p>
 		</div>
 	</div>
 	<div class="row">
