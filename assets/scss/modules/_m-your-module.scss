@@ -482,8 +482,10 @@ blockquote{
 	}
 }
 
-ul,ol,li{
-	&::after,&::before{
-		display: inline-block;
-	}
-}
+// p{
+// 	ul,ol,li{
+// 		&::after,&::before{
+// 			display: inline-block;
+// 		}
+// 	}
+// }

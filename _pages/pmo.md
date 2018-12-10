@@ -6,7 +6,6 @@ n: home
 image: bg2.jpg
 description: 
 ---
-
 <div class="row">
 	<div class="small-12 columns text-center b-ws-bottom">
 		<h2 class="wc bold serif">Do you feel inadequately equipped to be on top of all things? <br> We are here to help.</h2>
@@ -46,41 +45,40 @@ description:
     </div>
 	</div>
 </div>
-<div class="lgbg b-ws-top-p">
+<div class="wbg b-ws-top-p">
 	<div class="row">
 		<div class="small-12 columns text-center">
-			<div class="scolor f-1-2-5x s-ws-top">You already know the problem</div>
-			<div class="serif bold bkc f-2x m-ws-bottom">Plans simply don't work</div>
+			<div class="scolor f-1-25x s-ws-top">You already know the problem</div>
+			<div class="serif bold bkc f-2x ">Current project management tools require high maintenance and yet, are inadequate.</div>
+			<div class="scolor f-1-25x m-ws-bottom">Irrespective of however hard you work, you are bound to miss out on something.</div>
 	</div>
 	<div class="row">
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Impossible to be aware of all critical issues through sheer follow-up</h5>
-			<p>Something or the other is bound to slip
-Hence, surprises are still aplenty
-</p>
+		<div class="small-5 columns">
+			<!-- <img src="https://images.unsplash.com/photo-1495249346844-83e18c90a511?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"> -->
+			<img src="https://us.123rf.com/450wm/denisovd/denisovd1203/denisovd120301531/12704439-viejo-mapa-del-tesoro-aisladas-sobre-un-fondo-blanco.jpg?ver=6">
 		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Making reports is tedious, time-consuming and redundant</h5>
-			<p>Too many excel sheets, follow-ups, frequent re-planning</p>
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Coordination efforts are too high, yield is minimal</h5>
-			<p>Teams keep working to their own plans</p>
+		<div class="small-7 columns">
+			<h5 class="bold bkc f-1-5x nm">Impossible to be aware of all critical issues through sheer follow-up</h5>
+			<p class="f-1-25x">Something or the other is bound to slip. Hence, surprises are still aplenty</p>
+			<h5 class="bold bkc f-1-5x nm">Making reports is tedious, time-consuming and redundant</h5>
+			<p class="f-1-25x">Too many excel sheets, follow-ups, frequent re-planning</p>
+			<h5 class="bold bkc f-1-5x nm">Coordination efforts are too high, yet yield is minimal</h5>
+			<p class="f-1-25x">Teams keep working to their own plans</p>
 		</div>
 	</div>
 </div>
 <div class="lgbg b-ws-top-p">
 	<div class="row">
 		<div class="small-12 columns text-center">
-			Perhaps because the solutions everyone has been chasing till now, are untrue.
-			<div class="scolor f-1-2-5x s-ws-top">Yet, something here</div>
-			<div class="serif bold bkc f-2x m-ws-bottom">Most obvious solutions are also sub optimal</div>
+			Perhaps, what you are looking for is only a small part of the real problem:
+			<!-- <div class="scolor f-1-2-5x s-ws-top">Yet, something here</div> -->
+			<!-- <div class="serif bold bkc f-2x m-ws-bottom">Most obvious solutions are also sub optimal</div> -->
 	</div>
 	<div class="row">
 		<div class="small-4 columns">
 			<h5 class="bold bkc">If the teams send me data instead of me chasing them, that will solve my problems</h5>
 			<!-- <p>A software will solve my problem And, will also automate reports -->
-			</p>
+			<!-- </p> -->
 		</div>
 		<div class="small-4 columns">
 			<h5 class="bold bkc">Better tech can improve data collation and automate report-making</h5>
@@ -94,67 +92,56 @@ Hence, surprises are still aplenty
 </div>
 <div class="row">
 	<div class="small-12 columns">
-		<p>What you are looking for is only a small part of the real problem. We can be more for you. 
+		<p>We can be more for you. 
 In one stroke, you can easily fix the project delivery problem that your organization needs. We offer that solution.
 Why be Robin when you can be Batman.</p>
 		</div>
 </div>
-<div class="wbg b-ws-top-p">
-	<div class="row">
-		<div class="small-12 columns text-center">
-			<div class="scolor f-1-2-5x s-ws-top">The solution is a tool that</div>
+<div class="b-ws-top-p dbbg">
+	<!-- <div class="row">
+		<div class="small-12 columns b-ws-top"> -->
+			<!-- <div class="scolor f-1-25x s-ws-top">The solution is a plan that</div> -->
 			<!-- <div class="serif bold bkc f-2x m-ws-bottom">stays stable and relevant. Always</div> -->
-	</div>
+		<!-- </div>
+	</div> -->
 	<div class="row">
-		<div class="small-3 columns">
-			<h5 class="bold bkc">Always keeps your plans relevant</h5>
-			<p>Adapts in real-time 
-Automatically leverages instant updates
-Minimizes maintenance efforts
-			</p>
-		</div>
-		<div class="small-3 columns">
-			<h5 class="bold bkc">Synchronizes all parties automatically</h5>
-			<p>Removes 90% of coordination efforts that are redundant anyway</p>
-		</div>
-		<div class="small-3 columns">
-			<h5 class="bold bkc">Eliminates the need to continuously follow up for data collection</h5>
-			<p>Real-time app based updating technology platform that enables everyone to input data at source</p>
-		</div>
-		<div class="small-3 columns">
-			<h5 class="bold bkc">Automatically provides forward-looking alerts, not just the usual backward-looking reports</h5>
-			<p>Smart enough to anticipate delays before they hit execution</p>
+		<div class="small-10 small-centered columns b-ws-bottom-p">
+			<div class="row">
+				<div class="small-8 columns">
+					<div class="wcolor">The solution is </div>
+					<div class="wc f-1-25x bold s-ws-bottom">A Tool that:</div>
+					<h5 class="wc nm f-1-5x bold">Always keeps your plans relevant</h5>
+					<p class="wcolor f-1-25x nm">And adapts in real-time to do so.</p><p class="wcolor f-1-25x nm"> Automatically leverages instant updates
+</p><p class="wcolor f-1-25x">Minimizes maintenance efforts</p>
+					<h5 class="wc f-1-5x bold nm">Synchronizes all parties automatically</h5>
+					<p class="wcolor f-1-25x">Removes 90% of coordination efforts that are redundant anyway</p>
+					<h5 class="wc nm f-1-5x bold">Eliminates the need to continuously follow up for data collection</h5>
+					 <p class="wcolor f-1-25x">Real-time app based updating technology platform that enables everyone to input data at source</p>
+					<h5 class="wc nm f-1-5x bold">Automatically provides forward-looking alerts, not just the usual backward-looking reports</h5>
+					 <p class="wcolor f-1-25x">Smart enough to anticipate delays before they hit execution</p>
+					<!-- <h5 class="wc f-1-5x bold">Automatically leverages instant updates</h5> -->
+				</div>
+				<div class="small-4 columns" style="margin-top:-7.5em;">
+					<img src="https://cdn.dribbble.com/users/230178/screenshots/3814971/attachments/862068/022-night-mode.png">
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
-<div class="row">
-	<div class="small-12 text-center columns">
-<div>Interested?</div> 
-<div>Let's talk</div>
-<a class="button">schedule an appointment with us</a>
-</div>
-<div class="row">
-<div class="small-12 columns text-center">
-Case studies
-</div>
-</div>
-<div class="row">
-<div class="small-12 columns text-center">
 
-Work with us:
-Starting a new project?
-And worried about on time delivery
-Already started
-And project is slipping out of control
-Have a portfolio
-An worried about cashflow targets
-
-Find out how we can help
-</div>
-</div>
-<div class="row">
-<div class="small-12 columns text-center">
-
-Testimonials
-</div>
+<div class="wbg">
+	<div class="row">
+		<div class="small-12 text-center columns b-ws-top">
+				<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
+				<div class="f-1-25x s-ws-bottom">And how we can help you? Let's talk.</div>
+			</div>
+			<div class="small-3 small-centered columns">
+				<form>
+					<label class="wcolor">Your phone number
+					<input type="tel" name="" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
+					<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
+				</form>
+			</div>
+		</div>
+	</div>
 </div>

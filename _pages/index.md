@@ -101,7 +101,7 @@ description:
 	<div class="row">
 		<div class="small-10 small-centered columns text-center b-ws-top">
 			<div class="scolor f-1-25x">What if we told you, it doesn't have to be.</div>
-			<div class="bkc f-1-5x">It wasn't possible, until now</div>
+			<div class="bkc f-1-5x">It wasn't possible, until now.</div>
 		</div>
 		<div class="small-6 small-centered columns text-center">
 			<blockquote class="f-1-5x b-ws-top b-ws-bottom bkc">If I had asked people what they wanted,<br> they would have said faster horses.	
@@ -146,12 +146,21 @@ description:
 </div>
 <div class="wbg">
 	<div class="row">
-		<div class="small-12 text-center columns b-ws-top b-ws-bottom">
-			<div class="f-1-5x bold bkc">Interested?</div> 
-			<div class="f-1-25x s-ws-bottom">To find out how we do it.</div>
-			<a class="button">Give us a call</a>
+		<div class="small-12 text-center columns b-ws-top">
+				<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
+				<div class="f-1-25x s-ws-bottom">And how we can help you? Let's talk.</div>
+			</div>
+			<div class="small-3 small-centered columns">
+				<form>
+					<label class="wcolor">Your phone number
+					<input type="tel" name="" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
+					<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
+				</form>
+			</div>
+			<div class="small-12 text-center s-ws-top columns b-ws-bottom">
+			<!-- <a class="button">Give us a call</a> -->
 			<div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
-			<div class="f-1-5x s-ws-top bkc">Be in charge. Always.</div>
+			<div class="f-1-5x bkc">Be in charge. Always.</div>
 		</div>
 	</div>
 </div>

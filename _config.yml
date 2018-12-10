@@ -37,10 +37,10 @@ plugins_dir:
 incremental:      true
 
 # Serving
-# url:            "http://127.0.0.1.xip.io:3003"
+url:            "http://127.0.0.1.xip.io:3003"
 
 # url:            "https://mutinylabs.github.io/Realization/"
-url:            "https://adityanayak.github.io/rz/"
+# url:            "https://adityanayak.github.io/rz/"
 # baseurl:        "mutiny" # does not include hostname
 
 # Outputting

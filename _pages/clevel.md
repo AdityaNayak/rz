@@ -9,7 +9,7 @@ description:
 
 <div class="row">
 	<div class="small-12 columns text-center b-ws-bottom">
-		<h2 class="wc bold serif">If it is your business on the line, shouldn’t you be the one in control?</h2>
+		<h2 class="wc bold serif">If it is your business on the line, <br>shouldn’t you be the one in control?</h2>
 		<h4 class="wcolor">Finally, there is a method to execute projects to your business targets.<br> With proven results.</h4>
 		<div class="b-ws-top">
 			<a class="button success">Explain me how</a>
@@ -46,29 +46,57 @@ description:
     </div>
 	</div>
 </div>
-<div class="lgbg b-ws-top-p">
+<div class="wbg b-ws-top-p">
 	<div class="row">
 		<div class="small-12 columns text-center">
-			<div class="scolor f-1-2-5x s-ws-top">You already know the problem</div>
-			<div class="serif bold bkc f-2x m-ws-bottom">Plans simply don't work</div>
+			<div class="scolor f-1-25x s-ws-top">You already know the problem</div>
+			<div class="serif bold bkc f-2x">Project plans are never followed in the execution</div>
+			<div class="scolor f-1-25x b-ws-bottom">Irrespective of what you do, projects can never be delivered to the targets you set</div>
 	</div>
 	<div class="row">
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Are your cash flows at the mercy of factors that you seem to have no control on?</h5>
-			<!-- <p>And Practical planning is only limited to setting monthly targets and sans any insights</p> -->
+		<div class="small-5 columns">
+			<!-- <img src="https://images.unsplash.com/photo-1495249346844-83e18c90a511?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"> -->
+			<img src="https://us.123rf.com/450wm/denisovd/denisovd1203/denisovd120301531/12704439-viejo-mapa-del-tesoro-aisladas-sobre-un-fondo-blanco.jpg?ver=6">
 		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Isn’t it painful building a business with no reliable predictability in your projects? Almost like gambling blind.</h5>
-			<!-- <p>Mostly because, project plans become redundant on day 2 (as soon they meet the real world). And then it's a constant uphill pain to
-			Synchronize using Manual coordination</p> -->
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">No one understands the urgency of delivering on time, as much as you do.</h5>
-			<!-- <p>And hence, all actions can only be reactive. Leaving execution at the mercy of fire-fighting.</p> -->
+		<div class="small-7 columns">
+			<h5 class="bold bkc f-1-5x s-ws-top">Are your cash flows at the mercy of factors that you seem to have no control on?</h5>
+			<!-- <p class="f-1-25x">And Practical planning is only limited to setting monthly targets and sans any insights</p> -->
+			<h5 class="bold bkc f-1-5x s-ws-top">Isn’t it painful building a business with no reliable predictability in your projects? Almost like gambling blind.</h5>
+			<!-- <p class="f-1-25x">Mostly because, project plans become redundant on day 2 (as soon they meet the real world). And then it's a constant uphill pain to Synchronize using Manual coordination</p> -->
+			<h5 class="bold bkc f-1-5x s-ws-top">No one understands the urgency of delivering on time, as much as you do.</h5>
+			<!-- <p class="f-1-25x">And hence, all actions can only be reactive. Leaving execution only at the mercy of fire-fighting.</p> -->
 		</div>
 	</div>
 </div>
-<div class="lgbg b-ws-top-p">
+<div class="lgbg m-ws-top-p">
+	<div class="row">
+		<div class="small-8 small-centered columns text-center b-ws-top">
+			<div class="serif bold scolor f-1-5x">If you answered yes to any of those questions, <br> perhaps we have something valuable for you. </div>
+			<div class="scolor f-1-25x s-ws-top m-ws-bottom">For the most obvious solutions are already tried and failed</div>
+	</div>
+	<div class="row text-center">
+		<div class="small-10 columns small-centered m-ws-bottom">
+			<div class="small-4 columns">
+				<img src="https://image.flaticon.com/icons/svg/487/487961.svg" width="48px">
+				<h5 class="bold bkc s-ws-top">Hiring better PMO will solve the problem</h5>
+				<p>And can not be in my control</p>	
+			</div>
+			<div class="small-4 columns">
+				<img src="https://image.flaticon.com/icons/svg/263/263323.svg" width="48px">
+				<h5 class="bold bkc s-ws-top">Better results can only come from more investments in technology</h5>
+				<!-- <p>All reporting ever will be is backward looking. </p> -->
+			</div>
+			<div class="small-4 columns">
+				<img src="https://image.flaticon.com/icons/svg/1329/1329948.svg" width="48px">
+				<h5 class="bold bkc s-ws-top">Higher frequency of updates (real-time) will eliminate surprises </h5>
+				<!-- <p>A software will solve my problem And, will also automate reports -->
+				</p>
+			</div>
+		</div>
+	</div>
+	</div>
+</div> 
+<!-- <div class="lgbg b-ws-top-p">
 	<div class="row">
 		<div class="small-12 columns text-center">
 			<div class="scolor f-1-2-5x s-ws-top">Yet, all that you are trying isn’t enough. For the path chosen is untrue.
@@ -78,106 +106,106 @@ description:
 	<div class="row">
 		<div class="small-4 columns">
 			<h5 class="bold bkc">Better results can only come from more investments in technology</h5>
-			<!-- <p>A software will solve my problem And, will also automate reports -->
+			<!-- <p>A software will solve my problem And, will also automate reports 
 			</p>
 		</div>
 		<div class="small-4 columns">
 			<h5 class="bold bkc">Higher frequency of updates (real-time) will eliminate surprises </h5>
-			<!-- <p>And not in my control</p> -->
+			<!-- <p>And not in my control</p> 
 		</div>
 		<div class="small-4 columns">
 			<h5 class="bold bkc">Hiring better PMO will solve the problem</h5>
-			<!-- <p>All reporting ever will be is backward looking. </p> -->
+			<!-- <p>All reporting ever will be is backward looking. </p> 
+		</div>
+	</div>
+</div> -->
+<div class="wbg">
+	<div class="row">
+		<div class="small-10 small-centered columns text-center b-ws-top">
+			<div class="scolor f-1-25x">What if we told you, it doesn't have to be.</div>
+			<div class="bkc f-1-5x">It wasn't possible, until now.</div>
+		</div>
+		<div class="small-6 small-centered columns text-center">
+			<blockquote class="f-1-5x b-ws-top b-ws-bottom bkc">If I had asked people what they wanted,<br> they would have said faster horses.	
+			<cite>-Henry Ford (Father of mass-produced automobile)</cite></blockquote>
+		</div>
+		<div class="small-10 small-centered columns text-center b-ws-bottom b-ws-bottom-p">
+			<div class="f-1-5x bkc">All along, you have been sold faster horses while what you needed is a Car.</div>
+			<div class="f-1-5x bold bkc">But what is needed instead is a Car. </div>
+			<div class="scolor f-1-5x">However unbelievable it may feel at first.</div>
+			<div class="f-1-5x bkc bold m-ws-top">Every project can be delivered 25%-40% faster. </div>
+			<div class="f-1-25x m-ws-bottom">And our 400 (and counting) customers can vouch for it.
+			</div>
+		</div>
+	</div>
+</div>
+<div class="b-ws-top-p dbbg">
+	<!-- <div class="row">
+		<div class="small-12 columns b-ws-top"> -->
+			<!-- <div class="scolor f-1-25x s-ws-top">The solution is a plan that</div> -->
+			<!-- <div class="serif bold bkc f-2x m-ws-bottom">stays stable and relevant. Always</div> -->
+		<!-- </div>
+	</div> -->
+	<div class="row">
+		<div class="small-10 small-centered columns b-ws-bottom-p">
+			<div class="row">
+				<div class="small-8 columns">
+					<div class="wcolor">The solution is </div>
+					<div class="wc f-1-25x bold s-ws-bottom">A Plan that:</div>
+					<h5 class="wc nm f-1-5x bold">Explicitly reflects your business strategy</h5>
+					<p class="wcolor f-1-25x">And that prioritizes business needs over micro-management</p>
+					<h5 class="wc f-1-5x bold nm">Always stays relevant and on point</h5>
+					<p class="wcolor f-1-25x">No more back and forth between your team</p>
+					<h5 class="wc nm f-1-5x bold">Smart enough to anticipate delays before they hit execution</h5>
+					 <p class="wcolor f-1-25x">That enable Advance warning signals and not just backward looking reports</p>
+					<h5 class="wc nm f-1-5x bold">Remains stable always</h5>
+					 <p class="wcolor f-1-25x">Minimal maintenance efforts</p>
+					<h5 class="wc f-1-5x bold">Automatically leverages instant updates</h5>
+				</div>
+				<div class="small-4 columns" style="margin-top:-7.5em;">
+					<img src="https://cdn.dribbble.com/users/230178/screenshots/3814971/attachments/862068/022-night-mode.png">
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
 <div class="wbg b-ws-top-p">
 	<div class="row">
-		<div class="small-12 columns text-center">
-			<div class="scolor f-1-2-5x s-ws-top">And by now, you know that these aren’t the complete solution.</div>
-			<div class="serif bold bkc f-2x m-ws-bottom">Every project can be delivered 25%-40% faster. Unbelievable, but true
+		<div class="small-4 columns">
+			<h5 class="bold bkc">This is not a ‘Change Management’ initiative </h5>
+			<p>Easy buy-in from your existing team</p>
+		</div>
+		<div class="small-4 columns">
+			<h5 class="bold bkc">It does not take ages to implement</h5>
+			<p>Can be up and running in 8-12 weeks</p>
+		</div>
+		<div class="small-4 columns">
+			<h5 class="bold bkc">No unlearning and relearning process for your team</h5>
+			<p>No additional workload, no double updates needed from your team</p>
 		</div>
 	</div>
+	<div class="small-12 columns text-center">
+We take care of it end to end.
 </div>
-<div class="wbg b-ws-top-p">
+</div>
+<div class="wbg">
 	<div class="row">
-		<div class="small-12 columns text-center">
-			<div class="scolor f-1-2-5x s-ws-top">The solution is a plan that:</div>
-			<!-- <div class="serif bold bkc f-2x m-ws-bottom">Every project can be delivered 25%-40% faster. Unbelievable, but true -->
+		<div class="small-12 text-center columns b-ws-top">
+				<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
+				<div class="f-1-25x s-ws-bottom">And how we can help you? Let's talk.</div>
+			</div>
+			<div class="small-3 small-centered columns">
+				<form>
+					<label class="wcolor">Your phone number
+					<input type="tel" name="" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
+					<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
+				</form>
+			</div>
+			<div class="small-12 text-center s-ws-top columns b-ws-bottom">
+			<!-- <a class="button">Give us a call</a> -->
+			<div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
+			<div class="f-1-5x bkc">Be in charge. Always.</div>
 		</div>
 	</div>
-	<div class="row">
-		<div class="small-4 columns">
-			<h5 class="bold bkc">That always stays relevant</h5>
-			<p>Adapts in real-time 
-			</p>
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Synchronizes all parties automatically</h5>
-			<!-- <p>Advance warning signals and not just backward looking reports</p> -->
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Smart enough to anticipate delays before they hit execution</h5>
-			<p>Advance warning signals and not just backward looking reports</p>
-		</div>
-	</div>
-	Remains stable always
-Minimal maintenance efforts
-Automatically leverages instant updates
-	<div class="row">
-		<div class="small-12 columns text-center">
-			<div class="scolor f-1-2-5x s-ws-top">removing discomfort</div>
-			<!-- <div class="serif bold bkc f-2x m-ws-bottom">Every project can be delivered 25%-40% faster. Unbelievable, but true -->
-		</div>
-	</div>
-	<div class="row">
-		<div class="small-4 columns">
-			<h5 class="bold bkc">‘Change Management’ initiative is not needed</h5>
-			<!-- <p>Adapts in real-time </p> -->
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Gets implemented within 8-12 weeks</h5>
-			<!-- <p>Advance warning signals and not just backward looking reports</p> -->
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Easy buy-in from your existing team
-</h5>
-			<p>No need to unlearn/ re-learn for them.
-</p>
-		</div>
-	</div>
+</div>
 
-</div>
-<div class="row">
-	<div class="small-12 text-center columns">
-<div>Reach out to us</div> 
-<div>Let us pitch to you with a solution tailored to your needs</div>
-<a class="button">Give us a call.</a>
-<div>What would finishing 25% earlier mean for your business?</div>
-<h3 class="bold">Be in charge. <span class="bkc">Always.</span> </h3>
-</div>
-<div class="row">
-<div class="small-12 columns text-center">
-Case studies
-</div>
-</div>
-<div class="row">
-<div class="small-12 columns text-center">
-
-Work with us:
-Starting a new project?
-And worried about on time delivery
-Already started
-And project is slipping out of control
-Have a portfolio
-An worried about cashflow targets
-
-Find out how we can help
-</div>
-</div>
-<div class="row">
-<div class="small-12 columns text-center">
-
-Testimonials
-</div>
-</div>
