@@ -47,9 +47,9 @@ description:
 </div>
 <div class="wbg b-ws-top-p">
 	<div class="row">
-		<div class="small-12 columns text-center">
+		<div class="small-12 columns text-center b-ws-bottom">
 			<div class="scolor f-1-25x s-ws-top">You already know the problem</div>
-			<div class="serif bold bkc f-2x ">Current project management tools require high maintenance and yet, are inadequate.</div>
+			<div class="serif bold bkc f-2x ">Current PM tools require high maintenance <br> And yet, are inadequate.</div>
 			<div class="scolor f-1-25x m-ws-bottom">Irrespective of however hard you work, you are bound to miss out on something.</div>
 	</div>
 	<div class="row">
@@ -67,35 +67,35 @@ description:
 		</div>
 	</div>
 </div>
-<div class="lgbg b-ws-top-p">
+<div class="wbg b-ws-top-p b-ws-top">
 	<div class="row">
-		<div class="small-12 columns text-center">
-			Perhaps, what you are looking for is only a small part of the real problem:
-			<!-- <div class="scolor f-1-2-5x s-ws-top">Yet, something here</div> -->
-			<!-- <div class="serif bold bkc f-2x m-ws-bottom">Most obvious solutions are also sub optimal</div> -->
+		<div class="small-10 small-centered columns text-center b-ws-top b-ws-bottom">
+			<div class="scolor f-1-25x">Perhaps, what you have been looking for is </div>
+			<div class="bkc f-1-5x">only a small part of the real problem</div>
+		</div>
 	</div>
 	<div class="row">
-		<div class="small-4 columns">
-			<h5 class="bold bkc">If the teams send me data instead of me chasing them, that will solve my problems</h5>
-			<!-- <p>A software will solve my problem And, will also automate reports -->
-			<!-- </p> -->
+		<div class="small-2 np columns">
+			<img src="http://png.clipart-library.com/images4/2/batman-and-robin-clipart-3.png">
 		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">Better tech can improve data collation and automate report-making</h5>
-			<p>And not in my control</p>
-		</div>
-		<div class="small-4 columns">
-			<h5 class="bold bkc">I can never really truly be in control</h5>
-			<p>If workload is limited to following up, I will be more on top of things, at best.</p>
+		<div class="small-9 columns b-ws-top">
+				<h5 class="bkc">If the teams send me data instead of me chasing them, that will solve my problems</h5>
+				<!-- <p>A software will solve my problem And, will also automate reports -->
+				<!-- </p> -->
+				<h5 class="bkc nm xs-ws-top-p">Better tech can improve data collation and automate report-making</h5>
+				<p>And not in my control</p>
+				<h5 class="bkc nm">I can never really truly be in control</h5>
+				<p>If workload is limited to following up, I will be more on top of things, at best.</p>
 		</div>
 	</div>
-</div>
-<div class="row">
-	<div class="small-12 columns">
-		<p>We can be more for you. 
-In one stroke, you can easily fix the project delivery problem that your organization needs. We offer that solution.
-Why be Robin when you can be Batman.</p>
+	<div class="row">
+		<div class="small-10 small-centered columns text-center b-ws-top  b-ws-bottom b-ws-bottom-p">
+			<div class="f-1-5x ">We can be more for you.</div>
+			<div class="scolor bkc f-1-5x">In one stroke, you can easily fix the project delivery problem that your organization needs.</div>
+			<div class="f-1-5x bold bkc">We offer that solution.</div>
+			<div class="scolor f-1-5x">Why be Robin when you can be Batman.</div>
 		</div>
+	</div>
 </div>
 <div class="b-ws-top-p dbbg">
 	<!-- <div class="row">
@@ -128,14 +128,13 @@ Why be Robin when you can be Batman.</p>
 		</div>
 	</div>
 </div>
-
 <div class="wbg">
 	<div class="row">
 		<div class="small-12 text-center columns b-ws-top">
 				<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
 				<div class="f-1-25x s-ws-bottom">And how we can help you? Let's talk.</div>
 			</div>
-			<div class="small-3 small-centered columns">
+			<div class="small-3 small-centered columns b-ws-bottom">
 				<form>
 					<label class="wcolor">Your phone number
 					<input type="tel" name="" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
