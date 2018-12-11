@@ -25,8 +25,9 @@ layout: default
 </div>
 <div class="wbg">
 <div class="row">
-	<div class="small-3 columns b-ws-top-p">
+	<div class="small-2 columns b-ws-top-p text-right">
 		<img src="{{page.logo}}">
+		<h5 class="bkc">{{page.company}}</h5>
 	</div>
 	<div class="small-6 columns s-ws-top">
 		<main>
@@ -42,9 +43,10 @@ layout: default
 		<div class="callout dbbg">
 			<h4 class="wc bold">Interested?</h4>
 			<p class="wcolor">Find out how we can help. Give us a call.</p>
-			<form>
+			<form action="https://formspree.io/aditya@mutinylabs.in" method="POST">
 				<label class="wcolor">Your phone number
-				<input type="tel" name="" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
+				<input type="tel" name="telephone" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
+				<input type="hidden" name="_next" value="https://signup.realization.com/thankyou.html"/>
 				<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
 			</form>
 		</div>

@@ -55,6 +55,19 @@ var temp1 = pathname.split(".");
 var activetab=temp1[0].split("/")
 activetab="."+activetab[1]
 $('.top-bar-right '+activetab).addClass('active');
+if(activetab=""){
+    $('.top-bar-right .pmanager').addClass('active');    
+}
 // console.log($('.top-bar-right '+activetab));
 // console.log(url)
 // console.log(origin)
+
+$(".progress.callus .progress-meter").animate({width:"100%"},50000, function() {
+    $('.a1').html("Oops! Looks like we missed your call. We will call you back as soon as possible.")
+
+});
+
+$( ".cta2" ).submit(function( event ) {
+  event.preventDefault();
+  $('.cta2').slideUp();
+});
