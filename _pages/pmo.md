@@ -138,7 +138,7 @@ description:
 				<form action="https://formspree.io/aditya@mutinylabs.in" method="POST">
 					<label class="wcolor">Your phone number
 					<input type="tel" name="telephone" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
-					<input type="hidden" name="_next" value="https://signup.realization.com/thankyou.html"/>
+					<input type="hidden" name="_next" value="http://signup.realization.com/thankyou.html"/>
 					<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
 				</form>
 			</div>
