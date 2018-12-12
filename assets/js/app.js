@@ -54,9 +54,11 @@ var temp1 = pathname.split(".");
 // console.log(temp1)
 var activetab=temp1[0].split("/")
 activetab="."+activetab[1]
-$('.top-bar-right '+activetab).addClass('active');
 if(activetab=""){
     $('.top-bar-right .pmanager').addClass('active');    
+}
+else{
+    $('.top-bar-right '+activetab).addClass('active');    
 }
 // console.log($('.top-bar-right '+activetab));
 // console.log(url)
@@ -70,4 +72,10 @@ $(".progress.callus .progress-meter").animate({width:"100%"},50000, function() {
 $( ".cta2" ).submit(function( event ) {
   event.preventDefault();
   $('.cta2').slideUp();
+});
+
+$('.ebtn').click(function(){
+    $('html,body').animate({
+       scrollTop: $(window).scrollTop() + 600
+    },1000);
 });

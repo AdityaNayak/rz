@@ -11,7 +11,7 @@ description:
 		<h2 class="wc bold serif">Finally, a method to manage projects that works.<br>With Proven results.</h2>
 		<h4 class="wcolor">What would it feel like to see a project deliver as planned, for once?</h4>
 		<div class="b-ws-top">
-			<a class="button success">Explain me how</a>
+			<a class="button success ebtn">Explain me how</a>
 		</div>
 	</div>
 </div>
@@ -152,9 +152,11 @@ description:
 			</div>
 			<div class="small-3 small-centered columns">
 				<form action="https://formspree.io/aditya@mutinylabs.in" method="POST">
-					<label class="wcolor">Your phone number
+					<label class="scolor">Your phone number
 					<input type="tel" name="telephone" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
-					<input type="hidden" name="_next" value="https://signup.realization.com/thankyou.html"/>
+					<label class="scolor">Your email
+					<input type="email" name="mail" class="fullwidth" placeholder="name@email.com"></label>
+					<input type="hidden" name="_next" value="http://signup.realization.com/thankyou.html"/>
 					<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
 				</form>
 			</div>

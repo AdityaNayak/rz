@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="parallax-background post">
 	
 
@@ -16,10 +15,11 @@ layout: default
 <img src="{{site.url}}/assets/img/cover/{{page.cover}}">
 
 </div>
+{% include components/nav-menu.html %}
 <div class="parallax-content post">
 
 <div class="row">
-	<div class="small-9 small-offset-3 columns">
+	<div class="small-10 small-offset-2 columns">
 		<h2 class="serif bold wc">{{ page.title }}</h2>
 	</div>
 </div>
@@ -46,7 +46,9 @@ layout: default
 			<form action="https://formspree.io/aditya@mutinylabs.in" method="POST">
 				<label class="wcolor">Your phone number
 				<input type="tel" name="telephone" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
-				<input type="hidden" name="_next" value="https://signup.realization.com/thankyou.html"/>
+				<label class="wcolor">Your email
+				<input type="email" name="mail" class="fullwidth" placeholder="name@email.com"></label>
+				<input type="hidden" name="_next" value="http://signup.realization.com/thankyou.html"/>
 				<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
 			</form>
 		</div>

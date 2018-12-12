@@ -24,8 +24,8 @@ description:
 				<form class="cta2" method="post" action="#">
 					<label class="wcolor">Your name
 					<input type="text" name="name" class="fullwidth" placeholder="First and Last name"></label>
-					<label class="wcolor">Your email
-					<input type="email" name="mail" class="fullwidth" placeholder="name@email.com"></label>
+					<!-- <label class="wcolor">Your email
+					<input type="email" name="mail" class="fullwidth" placeholder="name@email.com"></label> -->
 					<input type="submit" name="" class="button fullwidth nm" value="Submit details">
 				</form>
 			</div>

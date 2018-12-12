@@ -12,7 +12,7 @@ description:
 		<h2 class="wc bold serif">If it is your business on the line, <br>shouldn’t you be the one in control?</h2>
 		<h4 class="wcolor">Finally, there is a method to execute projects to your business targets.<br> With proven results.</h4>
 		<div class="b-ws-top">
-			<a class="button success">Explain me how</a>
+			<a class="button success ebtn">Explain me how</a>
 		</div>
 	</div>
 </div>
@@ -48,7 +48,7 @@ description:
 </div>
 <div class="wbg b-ws-top-p">
 	<div class="row">
-		<div class="small-12 columns text-center">
+		<!-- <div class="small-12 columns text-center s-ws-bottom"> -->
 			<div class="scolor f-1-25x s-ws-top">You already know the problem</div>
 			<div class="serif bold bkc f-2x">Project plans are never followed in the execution</div>
 			<div class="scolor f-1-25x b-ws-bottom">Irrespective of what you do, projects can never be delivered to the targets you set</div>
@@ -68,10 +68,13 @@ description:
 		</div>
 	</div>
 </div>
-<div class="lgbg m-ws-top-p">
+<div class="lgbg s-ws-top-p s-ws-top">
 	<div class="row">
-		<div class="small-8 small-centered columns text-center b-ws-top">
-			<div class="serif bold scolor f-1-5x">If you answered yes to any of those questions, <br> perhaps we have something valuable for you. </div>
+		<div class="small-8 small-centered columns text-center s-ws-top">
+			<div class=" scolor f-1-25x">If you answered</div>
+			<div class="serif bold bkc f-2x">Yes</div> 
+			<div class="f-1-25x">to any of those questions</div>
+			<div class="bkc f-1-5x">perhaps we have something valuable for you. </div>
 			<div class="scolor f-1-25x s-ws-top m-ws-bottom">For the most obvious solutions are already tried and failed</div>
 	</div>
 	<div class="row text-center">
@@ -90,7 +93,7 @@ description:
 				<img src="https://image.flaticon.com/icons/svg/1329/1329948.svg" width="48px">
 				<h5 class="bold bkc s-ws-top">Higher frequency of updates (real-time) will eliminate surprises </h5>
 				<!-- <p>A software will solve my problem And, will also automate reports -->
-				</p>
+				<!-- </p> -->
 			</div>
 		</div>
 	</div>
@@ -194,9 +197,11 @@ description:
 				</div>
 				<div class="small-8 small-centered columns">
 					<form action="https://formspree.io/aditya@mutinylabs.in" method="POST">
-						<label class="wcolor">Your phone number
+						<label class="scolor">Your phone number
 						<input type="tel" name="telephone" class="fullwidth" placeholder="+91-xxx-xxx-xxxx"></label>
-						<input type="hidden" name="_next" value="https://signup.realization.com/thankyou.html"/>
+						<label class="scolor">Your email
+						<input type="email" name="mail" class="fullwidth" placeholder="name@email.com"></label>
+						<input type="hidden" name="_next" value="http://signup.realization.com/thankyou.html"/>
 						<input type="submit" name="" class="button fullwidth nm" value="Request Callback">
 					</form>
 				</div>
