@@ -4,7 +4,7 @@ title:  "₹200 Cr Steel plan Brownfield expansion"
 categories: jekyll update
 head: The secret behind Vardhman delivering a ₹200 Cr. Brownfield Expansion 1.5 months ahead of management target
 subhead: Including on-time completion of two shutdowns
-logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYVSjlMaNjQ2CvBsJ6Fksh91q8yIUecAl4mj6iGk7RbM50jYZDw
+logo: vardhman.png
 cover: vardhmansteel.jpg
 company: Vardhman special steels Ltd
 ---

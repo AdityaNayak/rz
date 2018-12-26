@@ -5,14 +5,14 @@
 		<h4 class="bkc nm">Case studies</h4>
 		<div class="scolor">With a proven track record of 9+ years in India</div>
 		</div>
-		<div class="small-6 columns b-ws-bottom">
+		<div class="small-12 medium-6 columns b-ws-bottom">
 
 			{% for post in site.posts limit:3 %}
 			<a href="{{post.url}}">
 				<div class="callout">
 					<div class="row">
 						<div class="small-3 columns">
-							<img src="{{ post.logo}}">
+							<img src="{{site.url}}/assets/img/logos/{{post.logo}}">
 						</div>
 						<div class="small-8 columns np">
 							<div class="bold bkc">{{ post.head }}</div>
@@ -27,13 +27,13 @@
 			</a>
 			{% endfor %}
 		</div>
-		<div class="small-6 columns b-ws-bottom">
+		<div class="small-12 medium-6 hide-for-small-only columns b-ws-bottom">
 			{% for post in site.posts limit:3 offset:3 %}
 			<a href="{{post.url}}">
 				<div class="callout">
 					<div class="row">
 						<div class="small-3 columns">
-							<img src="{{ post.logo}}">
+							<img src="{{site.url}}/assets/img/logos/{{post.logo}}">
 						</div>
 						<div class="small-8 columns np">
 							<div class="bold bkc">{{ post.head }}</div>
@@ -55,13 +55,13 @@
 	Awards
 </div> -->
 <div class="row">
-	<div class="small-8 small-centered columns text-center s-ws-top">
+	<div class="small-12 medium-10 large-8 small-centered columns text-center s-ws-top">
 		<!-- <h4 class="bkc s-ws-bottom-p">Partner with us</h4> -->
 		<div class="row">
-			<div class="small-5 columns b-ws-top b-ws-top-p">
+			<div class="small-8 small-centered medium-uncentered medium-5 columns b-ws-top b-ws-top-p">
 				<img src="{{site.url}}/assets/img/human.jpg">
 			</div>
-			<div class="small-7 columns text-left s-ws-top">
+			<div class="small-12 medium-7 medium-uncentered columns text-left s-ws-top">
 				<div class="bkc nm">Starting a new project?</div>
 				<div class="s-ws-bottom">And worried about on time delivery</div>
 				<div class="bkc  nm">Already started?</div>
@@ -95,13 +95,13 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="small-4 columns">
+		<div class="small-12 medium-4 columns">
 			<div class="callout">
 				<p class="s">In NTPC Khargone, within a month of starting the implementations of Project Analytics , our project management team had complete visibility of the bottleneck areas. Even when new bottlenecks are emerging, we are not taken by surprise. This enabled Team Khargone to take a lot of actions pro-actively and now our entire management team has full control on the due dates.
 				</p>
 				<div class="row">
 					<div class="small-3 columns">
-						<img src="https://media.licdn.com/dms/image/C4E03AQEIBRkOca4Rhg/profile-displayphoto-shrink_800_800/0?e=1549497600&v=beta&t=lpjd6uYBabGdofdukgtEjDnk5paWHlgZD63ljIet19Q" class="circle-img br">
+						<img src="{{site.url}}/assets/img/profile/ajayshukla.jpeg" class="circle-img br">
 					</div>
 					<div class="small-9 columns np">
 						<div class="bkc">Mr. Ajay Shukla</div>
@@ -114,7 +114,7 @@
 				</p>
 				<div class="row">
 					<div class="small-3 columns">
-						<img src="data:image/jpeg;base64,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" class="circle-img br">
+						<img src="{{site.url}}/assets/img/profile/sachitjain.jpeg" class="circle-img br">
 					</div>
 					<div class="small-9 columns np">
 						<div class="bkc">Mr. Sachit Jain</div>
@@ -123,14 +123,14 @@
 				</div>
 			</div>
 		</div>
-		<div class="small-4 columns">
+		<div class="small-12 medium-4 columns">
 			<div class="callout">
 				<p class="s">Realization literally acts as Google Maps for my projects. All of us, from the Top Management to the front line manager, know exactly what actions are necessary to prevent them from becoming actual delays. In the first year itself, the same project team has doubled the rate of execution.</p>
 				<p class="s">What impresses me is that they act more like partners to my business. They really understand my business requirements in detail and provide me control of my entire portfolio and great insights in the way forward.
 				</p>
 				<div class="row">
 					<div class="small-3 columns">
-						<img src="http://www.aarti-industries.com/media/board/1492775793_renil.png" class="circle-img br">
+						<img src="{{site.url}}/assets/img/profile/renilgogri.png" class="circle-img br">
 					</div>
 					<div class="small-9 columns np">
 						<div class="bkc">Mr. Renil R. Gogri</div>
@@ -143,7 +143,7 @@
 				</p>
 				<div class="row">
 					<div class="small-3 columns">
-						<img src="{{site.url}}/assets/img/sudipto.jpg" class="circle-img br">
+						<img src="{{site.url}}/assets/img/profile/sudipto.jpg" class="circle-img br">
 					</div>
 					<div class="small-9 columns np">
 						<div class="bkc">Mr. Sudipto Sarkar,</div>
@@ -152,13 +152,13 @@
 				</div>
 			</div>	
 		</div>
-		<div class="small-4 columns">
+		<div class="small-12 medium-4 columns">
 			<div class="callout">
 				<p class="s">Creating a world-class shipyard and a 200m shiplift totally in-house involved many challenges. Yet the project was completed in 28 months, overcoming most delays and uncertainties. This was possible primarily due to dedicated team effort. The team from Realization was involved in coordination, planning and monitoring the project throughout.
 				</p>
 				<div class="row">
 					<div class="small-3 columns">
-						<img src="http://www.indiastrategic.in/image/MV_Kotwal_L&T.png" class="circle-img br">
+						<img src="{{site.url}}/assets/img/profile/mvkotwal.png" class="circle-img br">
 					</div>
 					<div class="small-9 columns np">
 						<div class="bkc">Mr. M V Kotwal</div>
@@ -171,7 +171,7 @@
 				</p>
 				<div class="row">
 					<div class="small-3 columns">
-						<img src="https://media.licdn.com/dms/image/C5103AQErb5yTXP0i0g/profile-displayphoto-shrink_800_800/0?e=1549497600&v=beta&t=qbEUtIz85tl_PRwEpBrkf2Ta7z179IHm75545AMlHWM" class="circle-img br">
+						<img src="{{site.url}}/assets/img/profile/viveknigam.jpeg" class="circle-img br">
 					</div>
 					<div class="small-9 columns np">
 						<div class="bkc">Mr. Vivek Nigam</div>
@@ -189,7 +189,7 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="small-4 columns wc">
+		<div class="small-12 medium-4 columns wc">
 			<div class="bold f-1-25x"> India </div>
 			<div>101A, First Floor</div>
 			<div>Nano Space IT Park</div>
@@ -198,7 +198,7 @@
 			<div class="s-ws-top">91.97694.38447</div> 
 			<div class="s-ws-top">nkumar@realization.com</div>
 		</div>
-		<div class="small-4 columns s wcolor">
+		<div class="small-12 medium-4 columns s wcolor">
 			<div class="wc bold">United States</div>
 			<div>440 North Wolfe Rd,</div>
 			<div>Sunnyvale, CA 94085</div>
@@ -207,7 +207,7 @@
 			<div>Belo Horizonte, MG</div>
 			<div>55(31)8404-7227</div>
 		</div>
-		<div class="small-4 columns s wcolor">
+		<div class="small-12 medium-4 columns s wcolor">
 		<div class="wc bold">Spain</div> 
 		<div>CMG Consultores</div>
 		<div>c/ Anochecer, 2 Oficina 11</div>
