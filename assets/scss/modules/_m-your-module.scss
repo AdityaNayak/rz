@@ -55,6 +55,10 @@
 			width: 100%;
 		}
 	}
+	&.webinar{
+		height: 400px;
+    background-image: url(../img/cover.jpg);
+	}
 }
 
 
@@ -62,11 +66,14 @@
 	max-width: 100%;
 	position: relative;
 	top: 200px;
-	&.jobs{
-		top:200px;
-	}
-	&.post{
-		top:300px;
+	// &.jobs{
+	// 	top:200px;
+	// }
+	// &.post{
+	// 	top:300px;
+	// }
+	&.webinar{
+		top:100px;
 	}
 	//padding: 50px;
 	//font-size: 20px;
@@ -79,6 +86,32 @@
 	
 }
 
+.bgline{
+	&:before{
+		content: "";
+    display: block;
+    position: absolute;
+    z-index: 0;
+    left: 8.2%;
+    top: 0;
+    bottom: 0;
+    border: 1px solid #EFEFEF;
+  }
+  
+}
+.bgcircle{
+  	width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: $darkblue;
+    padding: 2px;
+    color:$white;
+    font-weight:bold;
+    position: relative;
+    /* float: none; */
+    display: inline-block;
+    border: 2px solid $lightblue;
+  }
 
 .nbg{
 	background:none !important;
