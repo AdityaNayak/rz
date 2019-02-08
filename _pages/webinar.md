@@ -1,5 +1,5 @@
 ---
-permalink: /webinar
+permalink: /ideacast
 layout: parallax
 title: Realization Technologies
 n: webinar 
@@ -64,5 +64,35 @@ description:
 				</div>
 			</div>
 		</div>
+	</div>
+</div>
+<div class="wbg">
+	<div class="row">	
+		<div class="small-12 columns b-ws-top m-ws-bottom text-center">
+			<div class="scolor2 s-ws-bottom">Trusted by over 400+ clients, including</div>
+      <div class="row">
+      	<div class="small-2 hide-for-small-only columns text-center">
+      		<img src="{{site.url}}/assets/img/logos/usaf.png" class="gs hv" style="height:98px;">
+      	</div>
+      	<div class="small-4 medium-2 columns">
+      		<img src="{{site.url}}/assets/img/logos/tatasteel.png" class="gs hv m-ws-top-p xs-ws-top">
+      	</div>
+      	<div class="small-2 columns medium-1">
+      		<img src="{{site.url}}/assets/img/logos/lt.png" class="gs hv s-ws-top">
+      	</div>
+      	<div class="small-2 hide-for-small-only columns">
+      		<img src="{{site.url}}/assets/img/logos/boeing.png" class="gs hv">
+      	</div>
+      	<div class="small-3 medium-2 columns ">
+      		<img src="{{site.url}}/assets/img/logos/ntpc.png" class="gs hv">
+      	</div>
+      	<div class="small-2 columns hide-for-small-only">
+      		<img src="{{site.url}}/assets/img/logos/aarti.png" class="gs hv xs-ws-top">
+      	</div>
+      	<div class="small-2 medium-1 columns">
+      		<img src="{{site.url}}/assets/img/logos/nasa.png" class="gs hv s-ws-top">
+      	</div>
+      </div>
+    </div>
 	</div>
 </div>
