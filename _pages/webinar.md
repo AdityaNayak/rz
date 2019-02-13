@@ -30,7 +30,7 @@ description:
 					<div class="small-2 bgline text-center columns s-ws-bottom-p">
 						<div class="bgcircle">1</div>
 					</div>
-					<div class="small-10 columns s-ws-bottom" style="padding-left: 0;">
+					<div class="small-10 columns xs-ws-bottom" style="padding-left: 0;">
 						<h5 class="bkc nm">Why is Project Delivery so Important</h5>
 						<p>Projects delays seem acceptable. Should they be?</p>
 					</div>
@@ -39,7 +39,7 @@ description:
 					<div class="small-2 bgline text-center columns s-ws-bottom-p">
 						<div class="bgcircle">2</div>
 					</div>
-					<div class="small-10 columns s-ws-bottom" style="padding-left: 0;">
+					<div class="small-10 columns xs-ws-bottom" style="padding-left: 0;">
 						<h5 class="bkc nm">How is it different from Project Management</h5>
 						<p>Why doesn't program management work?</p>
 					</div>
@@ -48,7 +48,7 @@ description:
 					<div class="small-2 bgline text-center columns s-ws-bottom-p">
 						<div class="bgcircle">3</div>
 					</div>
-					<div class="small-10 columns s-ws-bottom" style="padding-left: 0;">
+					<div class="small-10 columns xs-ws-bottom" style="padding-left: 0;">
 						<h5 class="bkc nm">How does a Project Delivery System work</h5>
 						<p>And what does a PDS do</p>
 					</div>
