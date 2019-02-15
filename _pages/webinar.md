@@ -15,7 +15,7 @@ description:
 </div>
 <div class="lgbg">
 <div class="row">
-		<div class="small-12 medium-8 columns b-ws-top b-ws-top-p">
+		<div class="small-12 medium-8 columns m-ws-top">
 			<div class="flex-video widescreen">
   		  <iframe id="ytplayer" width="560" height="315" src="https://www.youtube.com/embed/71Q2ry0zptw?autoplay=1&modestbranding=1&showinfo=0&rel=0&cc_load_policy=1&iv_load_policy=3&theme=light&color=white" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
