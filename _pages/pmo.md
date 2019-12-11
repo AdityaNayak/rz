@@ -128,7 +128,7 @@ description:
 		</div>
 	</div>
 </div>
-<div class="wbg">
+<!-- <div class="wbg">
 	<div class="row">
 		<div class="small-12 text-center columns b-ws-top">
 				<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
@@ -146,4 +146,4 @@ description:
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->

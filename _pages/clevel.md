@@ -190,7 +190,7 @@ description:
 			<p class="b-ws-left">No additional workload, no double updates needed from your team</p>
 			<div class="s-ws-left f-1-5x bkc text-center m-ws-top">We take care of it end to end.</div>
 		</div>
-		<div class="small-12 medium-6 columns b-ws-bottom m-ws-top" style="border-left:1px solid #dedede;">
+		<!-- <div class="small-12 medium-6 columns b-ws-bottom m-ws-top" style="border-left:1px solid #dedede;">
 			<div class="row">
 				<div class="small-12 text-center columns">
 					<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
@@ -208,9 +208,9 @@ description:
 				</div>
 				<div class="small-12 text-center s-ws-top columns b-ws-bottom">
 				<!-- <a class="button">Give us a call</a> -->
-				<div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
+				<!-- <div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
 				<div class="f-1-5x bkc">Be in charge. Always.</div>
 			</div>
-		</div>
+		</div> -->
 	</div>
 </div>

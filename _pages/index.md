@@ -144,7 +144,7 @@ description:
 		</div>
 	</div>
 </div>
-<div class="wbg">
+<!-- <div class="wbg">
 	<div class="row">
 		<div class="small-12 text-center columns b-ws-top">
 				<div class="f-1-5x"><span class="bold bkc">Interested?</span> To find out how we do it.</div> 
@@ -162,8 +162,8 @@ description:
 			</div>
 			<div class="small-12 text-center s-ws-top columns b-ws-bottom">
 			<!-- <a class="button">Give us a call</a> -->
-			<div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
+			<!-- <div class="s-ws-top f-1-25x">Now take back control from externalities.</div>
 			<div class="f-1-5x bkc">Be in charge. Always.</div>
 		</div>
 	</div>
-</div>
+</div> -->
