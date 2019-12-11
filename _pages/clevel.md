@@ -181,7 +181,7 @@ description:
 		</div>
 	</div>
 	<div class="row">
-		<div class="small-12 medium-6 columns b-ws-bottom m-ws-top">
+		<div class="small-12 medium-6 medium-centered columns b-ws-bottom m-ws-top">
 			<h5 class="bold bkc nm"><img src="{{site.url}}/assets/img/checked.png" width="36px" class="xs-ws-right">This is not a ‘Change Management’ initiative </h5>
 			<p class="b-ws-left">Easy buy-in from your existing team</p>
 			<h5 class="bold bkc nm"><img src="{{site.url}}/assets/img/checked.png" width="36px" class="xs-ws-right">It does not take ages to implement</h5>
