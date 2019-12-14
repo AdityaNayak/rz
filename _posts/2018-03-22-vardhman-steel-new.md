@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "₹200 Cr Steel plan Brownfield expansion"
+title:  "₹200 Cr Steel plant Brownfield expansion"
 categories: cs
 head: The 3 simple changes Vardhman Steel did to deliver a ₹200 Cr. Brownfield Expansion 1.5 months ahead of management target
 subhead: Including on-time completion of two shutdowns
