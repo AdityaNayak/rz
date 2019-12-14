@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vardhman Fabrics delivers brownfield expansion projects On-Time, twice. ₹ 450cr ('12-'13) and ₹650cr ('17-'18)"
-categories: jekyll update
+categories: cs
 head: Here is how Vardhman Fabrics delivered back to back brownfield expansion projects On-Time
 subhead: ₹450cr (in '12-'13) and ₹650cr (in '17-'18)
 logo: vardhman.png
