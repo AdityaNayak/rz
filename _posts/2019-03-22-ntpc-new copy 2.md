@@ -1,0 +1,202 @@
+---
+layout: post
+title: "3 simple things that were able to save NTPC Khargone project from disastrous delays"
+categories: jekyll update
+head: Saving NTPC Khargone project from disastrous delays
+subhead: in under 6 months
+logo: ntpc.png
+cover: ntpc.jpg
+company: NTPC Ltd
+---
+
+
+<h5 class="bkc bold">We now have the most sophisticated and dynamic project management systems.
+So why is the problem of projects being late and overbudget remains unsolved?
+</h5>
+
+While the world has seen tremendous advancements and innovations in supply chain and operation management
+systems, bringing immense benefits to enterprises. Yet, projects continue to lag far behind. According to
+Mckinsey latest report on Megaprojects, Nine out of ten large infrastructure projects are late and over budget.
+
+
+<div class="callout dbbg">
+	<div class="row">
+		<div class="small-12 medium-6 columns">
+			<p class="s wc">
+				<span class="bold">Why? </span> The project management infrastructure has become a beast, swallowing endless data and countless hours, but still unable to provide information which is READY-TO-ACT. Whether it’s executive reviews or day-to-day decisions on the frontline, managers are drowning in oceans of data but still complain about dated and incomplete information.
+			</p>
+		</div>
+<div class="small-12 medium-6 columns">
+	<img src="{{site.url}}/assets/img/ig2.png">
+</div>
+</div>
+</div>
+So first let's address the elephant in the room. THE DATA. You might still be thinking of how can data be the culprit for project delays. In fact, the data has been termed as the ‘New Gold’ by many.
+Hang on! Don’t jump the gun. We are getting there. Data is of no use if it doesn’t provide pinpointed
+information. The information which is reliable and can be immediately acted on.
+But the ground reality is the data available to different stakeholders in the project is subjective and requires
+interpretation to arrive at any decision. Think about the ever-changing project dynamics.
+Current project infrastructure is not adequate to support automatic flow of Information keeping Top
+Management, PMO and Front Line Execution DISCONNECTED, always.
+
+<h5 class="bkc bold">One Project, Three disconnected views</h5>
+<div class="text-center">
+	<img src="{{site.url}}/assets/img/ig1.png">
+</div>
+
+<div class="bkc bold">Implications of Disconnected Project Systems => Subjectivity => No Ready-to-Act
+Information</div>
+1. Backward-looking reports keep management blindsided to the truly critical issues in projects.
+They lack the information on where to intervene
+2. Front line is clueless on what to do and when to do
+
+
+<h5 class="bkc bold">3 Ways NTPC solved these problems</h5>
+
+Before we get on to the solutions, first let's understand what the problems are? And how they had been
+solved traditionally in an unsuccessful ways.
+
+<h6 class="bkc bold">Problem 1</h6>
+<div class="bold">Planning and Execution are DISCONNECTED</div>
+Construction/ Infrastructure projects are dynamic. Even the most well laid out
+plans go awry soon after they are created.
+
+<h6 class="bkc bold">Traditional way</h6>
+<div class="bold">Creation of detailed rigid plan, which can’t be used in execution</div>
+It is widely believed that the creation of a detailed plan at the start should largely
+take care of the project execution in the later part. It should be like that.
+Isn’t plan should serve as the project delivery guideline for the frontline
+execution. But the plan fails to do so.
+Any plan at this level of detail are hardly understood by the front line. Forcing
+executioners to have their own interpretation of the plan which might not be
+aligned with the project delivery roadmap.
+
+<div class="text-center">
+<img src="{{site.url}}/assets/img/ig3.png">
+</div>
+
+<div class="callout dbbg">
+	<p class="bold wc">
+Case Study: NTPC ₹5580 cr Super Thermal Power plant
+</p>
+<p class="s wc">
+Projects in this category involve over 30 big contractors and vendors for individual packages of work. On top of that, there
+are over 10,000 drawing approvals and thousands of major and minor orders involved in such projects. Combining these
+individual schedules can generate a plan that has 100,000+ tasks with thousands of intra and inter package dependencies.
+All the above, essentially meant that plans were never used in execution.
+</p>
+</div>
+<h6 class="bkc bold">
+Solution 1: Execution Oriented Plan
+</h6>
+
+With Realization’s SMART project delivery system, the original plan was converted into a 1600 tasks plan.
+Zooming out, only 30 Focus &amp; Finish tasks pack the entire project ‘in a nutshell’ for executives. Zooming in,
+execution details and procedures are captured as subtasks and checklists below the 1600 tasks.
+Planning this way ensured the project can be managed with relative simplicity and stability. Subtasks and
+checklists can be modified on the fly by the frontline without affecting the critical path. The 30-task delivery
+roadmap highlights critical packages for executives, from where they can drill down as needed.
+The integrated plan meant that the same planned being followed by all the stakeholders across the project including
+the external vendors and contractors keeping everyone synchronized with the project priorities.
+
+
+<div class="text-center">
+<img src="{{site.url}}/assets/img/ig4.png">
+</div>
+
+<h6 class="bkc bold">
+
+Problem 2: Information scattered over multiple systems were subjective and
+required interpretation
+</h6>
+
+While there were planning and scheduling systems in place, The front line execution was always lacking
+information on what to do and when to do. Why? The plan could not be converted automatically to daily
+schedules for front line. Front line had a list of tasks to be executed without any prioritized schedule. This
+frequently forced front line to set their own targets which hurt project delivery.
+
+Similarly, the progress updates form the sites have to be updated manually from the spreadsheets and
+DPRs for updating the schedule. This always left room for subjectivity and error while updating progress.
+Again, this entire exercise was cumbersome and time taking. Once execution began, delays and changes in
+scope and dependencies rendered the information derived from the plan obsolete and, therefore,
+unreliable.
+
+To keep schedule aligned with the current scenario, the planning team has to re-plan frequently. Re-planning required huge manual effort to change task details, duration, and dependencies. Again a time
+taking process making the new plan obsolete quickly. A VICIOUS cycle. All this while front line missing any
+direction.
+
+
+<div class="callout dbbg">
+	<p class="s wc"><span class="bold">Case Study:</span> The PMC fought a monthly battle to get updates and then to massage the plan to reflect the status that made sense. Executives would often go to the frontline to assess project progress, only to be surprised by delays that
+formal project management reports had not reflected. More importantly, lacking a viable integrated plan, various teams
+prioritized their work locally and were de-synchronized as a result.
+	</p>
+</div>
+
+<h6 class="bkc bold">
+Solution 2: Automated Roll-down/ Roll-up
+</h6>
+
+While there were planning and scheduling systems in place, The front line execution was always lacking
+information on what to do and when to do. Why? The plan could not be converted automatically to daily
+schedules for the front line. Front line had a list of tasks to be executed without any prioritized schedule. This
+frequently forced front line to set their own targets which hurt project delivery.
+Similarly, the progress updates form the sites have to be updated manually from the spreadsheets and
+DPRs for updating the schedule. This always left a room for subjectivity and error while updating progress.
+Again, this entire exercise was cumbersome and time taking. Once execution began, delays and changes in
+scope and dependencies rendered the information derived from the plan obsolete and, therefore,
+unreliable.
+To keep schedule aligned with the current scenario, the planning team has to re-plan frequently. Re-
+planning required huge manual effort to change task details, duration and dependencies. Again a time
+taking process making the new plan obsolete quickly. A VICIOUS cycle. All this while front line missing any
+direction.
+
+<div class="text-center">
+<img src="{{site.url}}/assets/img/ig5.png">
+</div>
+
+
+
+<h6 class="bkc bold">
+Problem 3: Disconnect between management view and actual project status
+</h6>
+Senior management feared that they might be getting blindsided to issues that are truly critical to the project
+and last-minute surprises could cause significant delays to the project. The ‘Hydrotest’ milestone had already
+suffered delays and senior management did not want the same to happen to the subsequent milestones
+
+
+<h6 class="bkc bold">
+Solution 3: Forward-looking alerts
+</h6>
+As engineering submits drawings, purchasing places orders and execution teams fill Daily Progress
+Reports, Realization’s Project Delivery System not only updates the project plan but also provides
+forward-looking status to executives and project managers. Last-minute surprises for executives are
+fewer, and everyone pro-actively takes care of the issues that are slowing the project down.
+
+
+<div class="callout dbbg">
+	<p class="s wc">
+		Power Plant projects are large and complex in nature with many external stakeholders. NTPC has over 40 years of experience in executing such projects. Our project management teams are amongst the best in the country and the world.
+</p>
+<p class="s wc">
+		Yet, because of the dynamic nature of projects, synchronization (of various internal and external partners) and having meaningful signals to facilitate management control are practical challenges that we have recognized and been trying to address and improve for a long time. Realization's TOC based methodology and Concerto system have helped us in addressing these aspects of project management
+</p><p class="s wc">
+		In NTPC Khargone, within a month of starting the implementations of Project Analytics, our project management team had complete visibility of the bottleneck areas. Even when new bottlenecks are emerging, we are not taken by surprise. This enabled Team Khargone to take a lot of actions pro-actively and now our entire management team has full control over the due dates. We are going to complete major milestones on time. Some welcome changes that are helping us in pro-active decisions and actions are:</p>
+<ol class="wc s">
+	<li>Priorities are aligned for project level of management - decisions and subsequent actions are faster</li>
+<li>Each level of management have reliable, unbiased and meaningful visibility of their respective areas</li>
+<li>Warning signals from the system are definitely forward-looking</li>
+</ol>
+<p class="s wc">
+		We are confident that we are going to achieve all the remaining milestones on time and we are implementing the Project Analytics system in a second Thermal Power plant project in Patratu.
+	</p>
+	<div class="row">
+		<div class="small-2 columns">
+			<img src="{{site.url}}/assets/img/profile/ajayshukla.jpeg" class="circle-img br">
+		</div>
+<div class="small-10 columns np">
+			<div class="wc">Mr. Ajay Shukla</div>
+<div class="s wcolor">AGM, NTPC</div>
+</div>
+	</div>
+</div>
