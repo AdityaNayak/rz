@@ -5,7 +5,7 @@ categories: jekyll update
 head: This simple shift in perspective enabled L&T, Tata Steel and NTPC to eliminate their project delays.
 subhead: It's not what you think
 <!-- logo: ntpc.png -->
-cover: lt.jpg
+cover: landt.jpg
 <!-- company: NTPC Ltd -->
 ---
 
